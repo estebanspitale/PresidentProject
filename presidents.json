@@ -1,0 +1,120 @@
+[
+    {
+        "prophetName": "Joseph Smith",
+        "Years as President:": "1832–1844",
+        "Birthdate": "December 23, 1805",
+	  "Date of death": "June 27, 1844",	
+        "imageUrl": "https://es.wikipedia.org/wiki/Joseph_Smith#/media/Archivo:Joseph_Smith,_Jr._portrait_owned_by_Joseph_Smith_III.jpg"
+    },
+    {
+        "prophetName": "Brigham Young",
+        "Years as President:": "1847–1877",
+        "Birthdate": "June 1, 1801",
+	  "Date of death": "August 29, 1877",	
+        "imageUrl": "https://es.wikipedia.org/wiki/Brigham_Young#/media/Archivo:Brigham_Young_by_Charles_William_Carter.jpg"
+    },
+    {
+        "prophetName": "John Taylor",
+        "Years as President:": "1880–1887",
+        "Birthdate": "November 1, 1808",
+	  "Date of death": "July 25, 1887",	
+        "imageUrl": "https://es.wikipedia.org/wiki/John_Taylor_(SUD)#/media/Archivo:Taylor_john.jpg"
+    },
+    {
+        "prophetName": "Wilford Woodruff",
+        "Years as President:": "1887–1898",
+        "Birthdate": "March 1, 1807",
+	  "Date of death": "September 2, 1898",	
+        "imageUrl": "https://es.wikipedia.org/wiki/Wilford_Woodruff#/media/Archivo:Wilford_Woodruff_1889.jpg"
+    },
+    {
+        "prophetName": "Lorenzo Snow",
+        "Years as President:": "1898–1901",
+        "Birthdate": "April 3, 1814",
+	  "Date of death": "October 10, 1901",	
+        "imageUrl": "https://es.wikipedia.org/wiki/Lorenzo_Snow#/media/Archivo:Lorenzo_Snow.jpg"
+    },
+    {
+        "prophetName": "Joseph F. Smith",
+        "Years as President:": "1901–1918",
+        "Birthdate": "November 13, 1838",
+	  "Date of death": "November 19, 1918",	
+        "imageUrl": "https://es.wikipedia.org/wiki/Joseph_F._Smith#/media/Archivo:JFS_First_Presidency_1905_large.jpg"
+    },
+    {
+        "prophetName": "Heber J. Grant",
+        "Years as President:": "1918–1945",
+        "Birthdate": "November 22, 1856",
+	  "Date of death": "May 14, 1945",	
+        "imageUrl": "https://es.wikipedia.org/wiki/Heber_J._Grant#/media/Archivo:Heberjgrantloc2.png"
+    },
+    {
+        "prophetName": "George Albert Smith",
+        "Years as President:": "1945–1951",
+        "Birthdate": "April 4, 1870",
+	  "Date of death": "April 4, 1951",	
+        "imageUrl": "https://es.wikipedia.org/wiki/George_Albert_Smith#/media/Archivo:George_Albert_Smith_1939.JPG"
+    },
+    {
+        "prophetName": "David O. McKay",
+        "Years as President:": "1951–1970",
+        "Birthdate": "September 8, 1873",
+	  "Date of death": "January 18, 1970",	
+        "imageUrl": "https://es.wikipedia.org/wiki/David_O._McKay#/media/Archivo:David_O._McKay_1939.JPG"        
+    },
+    {
+        "prophetName": "Joseph Fielding Smith",
+        "Years as President:": "1970–1972",
+        "Birthdate": "July 19, 1876",
+	  "Date of death": "July 2, 1972",	
+        "imageUrl": "https://es.wikipedia.org/wiki/Joseph_Fielding_Smith#/media/Archivo:Joseph_Fielding_Smith.jpg"
+    },
+    {
+        "prophetName": "Harold B. Lee",
+        "Years as President:": "1972–1973",
+        "Birthdate": "March 28, 1899",
+	  "Date of death": "December 26, 1973",	
+        "imageUrl": "https://es.wikipedia.org/wiki/Harold_B._Lee#/media/Archivo:Harold_B._Lee2.jpg"
+    },
+    {
+        "prophetName": "Spencer W. Kimball",
+        "Years as President:": "1973–1985",
+        "Birthdate": "March 28, 1895",
+	  "Date of death": "November 5, 1985",	
+        "imageUrl": "https://es.wikipedia.org/wiki/Spencer_W._Kimball#/media/Archivo:Spencer_W._Kimball3.JPG"
+    },
+    {
+        "prophetName": "Ezra Taft Benson",
+        "Years as President:": "1985–1994",
+        "Birthdate": "August 4, 1899",
+	  "Date of death": "May 30, 1994",	
+        "imageUrl": "https://es.wikipedia.org/wiki/Ezra_Taft_Benson#/media/Archivo:Ezra_Taft_Benson.jpg"
+    },
+    {
+        "prophetName": "Howard W. Hunter",
+        "Years as President:": "1994–1995",
+        "Birthdate": "November 14, 1907",
+	  "Date of death": "March 3, 1995",	
+        "imageUrl": "https://es.wikipedia.org/wiki/Howard_W._Hunter#/media/Archivo:Howard_W._Hunter.JPG"
+    },
+    {
+        "prophetName": "Gordon B. Hinckley",
+        "Years as President:": "1995–2008",
+        "Birthdate": "June 23, 1910",
+	  "Date of death": "January 27, 2008",	
+        "imageUrl": "https://es.wikipedia.org/wiki/Gordon_B._Hinckley#/media/Archivo:Gordon_B._Hinckley,_2007.png"
+    },
+    {
+        "prophetName": "Thomas S. Monson",
+        "Years as President:": "2008–2018",
+        "Birthdate": "August 21, 1927",
+	  "Date of death": "January 2, 2018",	
+        "imageUrl": "https://es.wikipedia.org/wiki/Thomas_S._Monson#/media/Archivo:Thomas_S_Monson.jpg"
+    },
+    {
+        "prophetName": "Russell M. Nelson",
+        "Years as President:": "2018-Current",
+        "Birthdate": "September 9, 1924",	
+        "imageUrl": "https://newsroom.churchofjesuschrist.org/media/960x1280/President-Russell-M-Nelson-1-2018.jpg"
+    }
+]
